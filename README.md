@@ -1,36 +1,27 @@
 # Toolghar
 
-## 🛠️ Free Online Tools for Everyone
+The universal store for web tools. All the tools you need, in one place.
 
-Free digital tools including QR generators, AI tools, and more. Simplify your digital tasks at [toolghar.in](https://toolghar.in)
+[toolghar.com](https://toolghar.com)
 
-## ✨ Features
+## About
 
-- **AI Tools** - Text generation, image analysis, and more
-- **Productivity Tools** - URL shortener, password generator, color tools
-- **100% Free** - No registration required
-- **Mobile Friendly** - Works on all devices
+Toolghar builds digital tools that solve real problems. Every tool is fast and designed to save you time. Whether you're coding, creating content, or handling everyday tasks.
 
-## 🚀 Quick Start
+## Get Started
 
-1. Visit [toolghar.in](https://toolghar.in)
-2. Choose your tool
-3. Use instantly - no signup needed
-4. Download your results
+1. Visit the website
+2. Pick a tool
+3. Use it. No signup needed
 
-## 🤝 Contributing
+## Links
 
-Found a bug or have suggestions? Contact us at **toolghar.in@gmail.com**
-
-## 📱 Follow Us
-
-- **Website**: [toolghar.in](https://toolghar.in)
-- **Social**: [@toolghar](https://github.com/toolghar) on all platforms
-
-## 📄 License
-
-MIT License - Open source and free to use.
+- [LinkedIn](https://www.linkedin.com/company/toolghar)
+- [GitHub](https://github.com/toolghar)
+- contact@toolghar.com
 
 ---
 
-**Made with ❤️ by the Toolghar Team**
+Made with ❤️ by the Toolghar Team
+
+
